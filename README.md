@@ -106,6 +106,6 @@ This software is provided "as is" without warranties. Use at your own risk. Deve
 
 ---
 
-## License 📄
+## License
 
 MIT License — See LICENSE file for details.
